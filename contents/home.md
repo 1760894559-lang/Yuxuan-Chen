@@ -1,6 +1,7 @@
+1760894559-lang
 Yuxuan Chen
+[![GitHub](https://img.shields.io/badge/1760894559-lang-github-blue?logo=github)](https://github.com/1760894559-lang)
 
-[![Yuxuan Chen](https://img.shields.io/badge/Yuxuan Chen-github-blue?logo=github)](https://github.com/Yuxuan Chen)
 
 He is an undergraduate student majoring in Communication Engineering at Fujian Normal University.
 
